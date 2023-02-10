@@ -17,12 +17,12 @@ p.direction:hover{
 h5.HENRIETTE{
     font:bold;
     color: bisque;
-    font-size: 30px;
-    font-style: italic;
+    font-size: 20px;
+    font-style:inherit;
 }
 h5.JACQUES{
     font:bold;
     color:aqua;
-    font-size: 30px;
+    font-size: 20px;
     font-style: oblique;
 }
