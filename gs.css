@@ -1,11 +1,11 @@
 p.speech{
-    font: 20px;
+    font: 15px;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p.direction .hover{
-    background-color: lightgray;
-    font: 25px;
+    background-color:lightcoral;
+    font: 20px;
     color: black;
     font-family: 'Times New Roman', Times, serif;
 }
