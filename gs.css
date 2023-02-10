@@ -26,3 +26,21 @@ h5.JACQUES{
     font-size: 20px;
     font-style: oblique;
 }
+table { border: dashed 3px;
+    color: black;
+    
+    }
+td {
+    
+    color: lawngreen;
+    text-align: center;
+
+}
+th{
+    font: bold;
+    color: black;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
