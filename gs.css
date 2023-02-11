@@ -33,15 +33,13 @@ table { border: solid 3px;
     
     }
 td {
-    padding: 25px 50px 75px 100px;
- margin: 25px 50px 75px;   
+       
     color: lawngreen;
     text-align: center;
 
 }
 th{
-    padding: 25px 50px 75px 100px;
- margin: 25px 50px 75px;   
+    border: solid;  
     font: bold;
     color: black;
     text-align: center;
