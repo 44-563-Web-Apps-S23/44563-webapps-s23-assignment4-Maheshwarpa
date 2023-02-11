@@ -28,15 +28,20 @@ h5.JACQUES{
 }
 table { border: solid 3px;
     color: black;
+    padding: 25px 50px 75px 100px;
+ margin: 25px 50px 75px;   
     
     }
 td {
-    
+    padding: 25px 50px 75px 100px;
+ margin: 25px 50px 75px;   
     color: lawngreen;
     text-align: center;
 
 }
 th{
+    padding: 25px 50px 75px 100px;
+ margin: 25px 50px 75px;   
     font: bold;
     color: black;
     text-align: center;
