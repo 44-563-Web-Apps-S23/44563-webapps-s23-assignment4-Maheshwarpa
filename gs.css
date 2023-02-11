@@ -49,6 +49,7 @@ th{
     font: bold;
     color: black;
     text-align: center;
+    background-color: bisque;
 }
 tr:nth-child(even) {
     background-color: #fff;
