@@ -21,8 +21,14 @@ h5.HENRIETTE{
     font-style:inherit;
 }
 h5:hover {
-    text-shadow: 10px 200px 100px maroon;
-    border-bottom: #fff;
+    text-shadow: 20px 20px 30px gray;
+    border-bottom: black solid;
+    font-size: 30px;
+}
+h5.JACQUES:hover {
+    text-shadow: 20px 20px 30px lightgreen;
+    border-bottom: black solid;
+    font-size: 30px;
 }
 h5.JACQUES{
     font:bold;
