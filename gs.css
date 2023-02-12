@@ -21,11 +21,11 @@ h5.HENRIETTE{
     font-style:inherit;
 }
 h5.HENRIETTE:hover{
-    text-shadow: 10px 2px 100px maroon;
+    text-shadow: 10px 200px 100px maroon;
     border-bottom: #fff;
 }
 h5.JACQUES:hover{
-    text-shadow: 10px 2px 100px lavender;
+    text-shadow: 10px 200px 100px lavender;
     border-bottom: #ddd;
 
 }
