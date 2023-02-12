@@ -8,7 +8,7 @@ p.direction{
     color: black;
     font-family:Arial, Helvetica, sans-serif;
 }
-p.direction:hover{
+p.direction:hover {
     background-color:lightgrey;
 
     color: blue;
@@ -20,7 +20,7 @@ h5.HENRIETTE{
     font-size: 15px;
     font-style:inherit;
 }
-h5:hover{
+h5:hover {
     text-shadow: 10px 200px 100px maroon;
     border-bottom: #fff;
 }
