@@ -20,14 +20,9 @@ h5.HENRIETTE{
     font-size: 15px;
     font-style:inherit;
 }
-h5.HENRIETTE:hover{
+h5:hover{
     text-shadow: 10px 200px 100px maroon;
     border-bottom: #fff;
-}
-h5.JACQUES:hover{
-    text-shadow: 10px 200px 100px lavender;
-    border-bottom: #ddd;
-
 }
 h5.JACQUES{
     font:bold;
