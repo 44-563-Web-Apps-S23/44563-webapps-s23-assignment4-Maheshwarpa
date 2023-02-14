@@ -5,11 +5,37 @@
         <title>It is one act, but there is more</title>
         <script src="https://kit.fontawesome.com/57237ce8a0.js" crossorigin="anonymous"></script>
         <style>
-            .fa-house {
-                size: 60px;
-                color: royalblue;
+            .fa-film {
+                size: 100px;
+                color: aquamarine;
+                margin: 10px;
             }
-        </style>
+            .fa-video {
+                size: 100px;
+                color: blueviolet;
+                margin: 10px;
+            }
+            .navbar-horizontal {
+                
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+            ul.navbar-horizontal li {
+             float:left; /* line up horizontally */
+            color:#000;
+            background-color:lightskyblue
+            }
+            
+          ul.navbar-horizontal a {
+           display:block;
+           padding: 35px;
+          }
+          ul.navbar-horizontal a:hover {  
+          background-color:#111;
+          color:green;
+          }
+          </style>
         <link rel="Stylesheet" href="gs.css">
     </head>
     <body>
@@ -21,12 +47,13 @@
         produce the same effect on you as your Albert----</p>
 
         <a href="play.html">Play Page</a><br>
-        <ul class="navbar-horizontal">
-           
-            <li><a href="index.html">Main Page
-                <i class="fa-solid fa-house"></i>
-            </a></li>
-        </ul>
+        <div>
+            <ul class="navbar-horizontal">
+               <li><a href="play.html">Play_Page<i class="fa-solid fa-video"></i></a></li>
+               <li><a href="secondact.html">Second_Page<i class="fa-solid fa-film"></i></a></li>
+            </ul>
+        </div>
+        
         
     </body>
 </html>

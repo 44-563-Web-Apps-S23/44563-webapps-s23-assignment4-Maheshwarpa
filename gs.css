@@ -67,3 +67,8 @@ tr:nth-child(even) {
   tr:nth-child(odd) {
     background-color: #ddd;
   }
+
+  img {
+    display: block;
+    width:100% ;
+  }
